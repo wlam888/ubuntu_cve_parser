@@ -1,6 +1,8 @@
 # Ubuntu CVE Parser
 
-This program parses Ubuntu CVE advisories. Output is in the form of a CSV file which includes Release Version, CVE number, Pacakge, and Status. 
+This program parses Ubuntu CVE Security advisories. 
+
+Output is in the form of a CSV file which includes Release Version, CVE number, Pacakge, and Status. 
 
 Usage: 
 
